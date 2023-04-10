@@ -1,0 +1,26 @@
+Frequency	License	Type	Tone	Alpha Tag	Description	Mode	Tag
+45.440	KNAG597	BM		BC EMA	Emergency Management Agency	FMN	Emergency Ops
+153.875	WQMK335	RM		BCBOE Buses	Board of Education School Bus	FMN	Schools
+150.830	WQTS891	RM		BCBOE 8300	Board of Education HQ	DMR	Schools
+151.910	WQTS891	RM		Howard HS	Board of Education Howard HS	DMR	Schools
+151.970	WQTS891	RM		Rutland HS	Board of Education Rutland HS	DMR	Schools
+152.870	WQTS891	RM		Westside HS	Board of Education Westside HS	DMR	Schools
+462.125	WQGS428	BM		BCBOE Buses	Board of Education Transportation	FMN	Schools
+464.4625	WQGS428	BM		BCBOE Buses	Board of Education Transportation	FMN	Schools
+Macon 
+Frequency	License	Type	Tone	Alpha Tag	Description	Mode	Tag
+155.160	WYR768	BM		MGAS	Mid Georgia Ambulance	FMN	EMS-Tac
+155.295	WPEE202	BM		MGAS	Mid Georgia Ambulance	FMN	EMS Dispatch
+453.2375	WQHV895	RM		MHA Rpt	Housing Authority	FMN	Public Works
+452.400	WPPY300	BM		M H2O	Water Authority	FMN	Utilities
+453.800	WQDM877	RM		MTA Rpt	Transit Authority	FMN	Transportation
+Navicent Health Medical Center 
+Frequency	License	Type	Tone	Alpha Tag	Description	Mode	Tag
+462.950		BM	88.5 PL	NHMC PD	Police	FMN	Law Dispatch
+155.295		BM	88.5 PL	NHMC EMS	EMS Dispatch	FM	EMS Dispatch
+155.340		BM	88.5 PL	NHMC HEAR	EMS - Hospital	FM	Hospital
+Mercer University 
+Frequency	License	Type	Tone	Alpha Tag	Description	Mode	Tag
+460.125	WPLZ629	RM	77.0 PL	MUPD Disp	Police Dispatch	FM	Law Dispatch
+769.25625	WRBM395	RM		Mercer 769	Mercer University	P25	Schools
+771.23125	WRBM395	RM		Mercer 771	Mercer University	P25	Schools
